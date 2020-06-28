@@ -1,0 +1,43 @@
+{
+  "success": 1,
+  "error_code": null,
+  "data": {
+    "total": 800,
+    "history": [
+      {
+        "id": "1",
+        "user_name": "张三",
+        "openid": "abcd",
+        "task_name": "小数的运算",
+        "mission_id": "1",
+        "knowledge_name": "小数的运算",
+        "challenge_times": "60",
+        "start_time": "",
+        "end_time": "",
+        "answer_time": "",
+        "total_time": "",
+        "star": "2",
+        "correct_rate": "88",
+        "beans": "56"
+      },
+      {
+        "id": "2",
+        "user_name": "李四",
+        "openid": "efgh",
+        "task_name": "圆的认识",
+        "mission_id": "2",
+        "knowledge_name": "圆的认识",
+        "challenge_times": "",
+        "start_time": "",
+        "end_time": "",
+        "answer_time": "",
+        "total_time": "",
+        "star": "1",
+        "correct_rate": "66",
+        "beans": "35"
+      },
+      {},
+      {}
+    ]
+  }
+}

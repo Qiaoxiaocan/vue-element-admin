@@ -1,0 +1,35 @@
+{
+  "success": 1,
+  "error_code": null,
+  "data": {
+    "total": 800,
+    "questions": [
+      {
+        "id": "1",
+        "knowledge_name": "小数运算",
+        "title": "3.6+4.5=",
+        "qtype": "填空",
+        "diff": "1",
+        "choices": "null",
+        "answer1": "8.1",
+        "answer2": "8.1",
+        "parse": "3.6+4.5=8.1",
+        "source": "原创",
+        "enable": "1"
+      },
+      {"id": "2",
+        "knowledge_name": "小数运算",
+        "title": "2.2+3.3=",
+        "qtype": "填空",
+        "diff": "1",
+        "choices": "null",
+        "answer1": "5.5",
+        "answer2": "5.5",
+        "parse": "2.2+3.3=5.5",
+        "source": "原创",
+        "enable": "0"},
+      {},
+      {}
+    ]
+  }
+}
