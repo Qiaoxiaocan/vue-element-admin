@@ -1,35 +1,389 @@
 {
   "success": 1,
-  "error_code": null,
+  "error_code": "",
   "data": {
-    "total": 800,
+    "total": 111971,
     "questions": [
       {
-        "id": "1",
-        "knowledge_name": "小数运算",
-        "title": "3.6+4.5=",
-        "qtype": "填空",
-        "diff": "1",
-        "choices": "null",
-        "answer1": "8.1",
-        "answer2": "8.1",
-        "parse": "3.6+4.5=8.1",
-        "source": "原创",
-        "enable": "1"
+        "q_id": 109995,
+        "q_name": "比例尺",
+        "q_type": "选择题",
+        "diff": 3.0,
+        "title": "一幅地图的比例尺是1：100，表示把实际距离（　　）",
+        "options": {
+          "a": "扩大到原来的100倍",
+          "b": "缩小到原来的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>100</td></tr></table></span>",
+          "c": "不变",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "B",
+        "answer2": "【解答】解：一幅地图的比例尺是1：100，表示把实际距离缩小到原来的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>100</td></tr></table></span>厘米．<br />故选：B．",
+        "parse": "【分析】根据比例尺的意义作答，即比例尺是图上距离与实际距离的比．",
+        "source": "学库宝",
+        "enable": 1
       },
-      {"id": "2",
-        "knowledge_name": "小数运算",
-        "title": "2.2+3.3=",
-        "qtype": "填空",
-        "diff": "1",
-        "choices": "null",
-        "answer1": "5.5",
-        "answer2": "5.5",
-        "parse": "2.2+3.3=5.5",
-        "source": "原创",
-        "enable": "0"},
-      {},
-      {}
+      {
+        "q_id": 109990,
+        "q_name": "统计图的选择",
+        "q_type": "选择题",
+        "diff": 2.0,
+        "title": "要反映出某种蔬菜的价格变化应选择（　　）",
+        "options": {
+          "a": "条形统计图",
+          "b": "折线统计图",
+          "c": "扇形统计图",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "B",
+        "answer2": "【解答】解：根据统计图的特点可知：要反映出某种蔬菜的价格变化应选择折线统计图；<br />故选：B．",
+        "parse": "【分析】条形统计图能很容易看出数量的多少；折线统计图不仅容易看出数量的多少，而且能反映数量的增减变化情况；扇形统计图能反映部分与整体的关系；由此根据情况选择即可．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109982,
+        "q_name": "整数的加法和减法",
+        "q_type": "选择题",
+        "diff": 3.0,
+        "title": "最大的三位数与最小的四位数相差（　　）",
+        "options": {
+          "a": "1",
+          "b": "10",
+          "c": "1999",
+          "d": "100",
+          "e": ""
+        },
+        "answer1": "A",
+        "answer2": "【解答】解：根据题意可得：最大的三位数是999，最小的四位数是1000；<br />1000-999=1；<br />所以，最大的三位数与最小的四位数相差1．<br />故选：A．",
+        "parse": "【分析】根据题意，最大的三位数是999，最小的四位数是1000，然后两个数相减即可．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109974,
+        "q_name": "分数大小的比较",
+        "q_type": "选择题",
+        "diff": 4.0,
+        "title": "有一罐油，老鼠哥哥吃了<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>千克，老鼠弟弟吃了这罐油的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>，他俩（　　）吃的多．",
+        "options": {
+          "a": "老鼠哥哥",
+          "b": "老鼠弟弟",
+          "c": "无法比较",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "C",
+        "answer2": "【解答】解：这罐油的重量不知是多少，所以老鼠弟弟吃了这罐油的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>不知是多少千克，所以他俩吃的无法比较．<br />故选：C．",
+        "parse": "【分析】因这罐油的重量不知是多少，所以老鼠弟弟吃了这罐油的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>不知是多少千克，据此解答．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109963,
+        "q_name": "用字母表示数",
+        "q_type": "选择题",
+        "diff": 3.0,
+        "title": "m与n的和除m与n的差．正确的列式为（　　）",
+        "options": {
+          "a": ".（m-n）÷（m+n）",
+          "b": "（m+n）÷（m-n）",
+          "c": "（m-n）÷（m+n）",
+          "d": "（m+n）×（m-n）",
+          "e": ""
+        },
+        "answer1": "C",
+        "answer2": "【解答】解：（m-n）÷（m+n）<br />故选：C．",
+        "parse": "【分析】先用m加上n求出和作为除数，再用m减去n求出差作为被除数，再用被除数除以除数即可求解．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109950,
+        "q_name": "比例的意义和基本性质",
+        "q_type": "选择题",
+        "diff": 4.0,
+        "title": "根据ab=cd下面不能组成比例的是（　　）",
+        "options": {
+          "a": "a：c和d：b",
+          "b": "d：a和b：c",
+          "c": "b：d和a：c",
+          "d": "a：d和c：b",
+          "e": ""
+        },
+        "answer1": "C",
+        "answer2": "【解答】解：根据比例的基本性质，由等式a×b=c×d；<br />得比例a：d=c：b、c：a=b：d、a：c：d：b．<br />所以，根据a×b=c×d；<br />C选项不能组成比例．<br />故选：C．",
+        "parse": "【分析】在比例中，两内项的乘积等于两外项的乘积．所以根据比例的基本性质，由等式a×b=c×d&nbsp;可得比例a：d=c：b，c：a=b：d．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109946,
+        "q_name": "正比例和反比例的意义",
+        "q_type": "选择题",
+        "diff": 3.0,
+        "title": "下列等式中，a与b成反比例的是（　　）",
+        "options": {
+          "a": "6×a=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>11</td></tr></table></span>",
+          "b": "<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">3</td></tr><tr><td>5</td></tr></table>a</span>=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">7</td></tr><tr><td>8</td></tr></table>b</span>",
+          "c": "4×<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">3</td></tr><tr><td>a</td></tr></table></span>=b÷6",
+          "d": "无选项",
+          "e": ""
+        },
+        "answer1": "C",
+        "answer2": "【解答】解：A，因为6×a=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>11</td></tr></table></span>b，即a：b=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>11</td></tr></table></span>（一定），是比值一定，所以a、b成正比例；<br />B，因为<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">3</td></tr><tr><td>5</td></tr></table></span>a=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">7</td></tr><tr><td>8</td></tr></table></span>b，所以a：b=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">35</td></tr><tr><td>24</td></tr></table></span>（一定），所以a、b成正比例；<br />C，因为4×<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">3</td></tr><tr><td>a</td></tr></table></span>=b÷6，所以ab=72（一定），所以a、b成反比例；<br />故选：C．",
+        "parse": "【分析】判断两个相关联的量成什么比例，就看这两种量是对应的比值一定，还是对应的乘积一定，如果是比值一定，就成正比例，如果是乘积一定，就成反比例，由此逐一分析即可解答．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109941,
+        "q_name": "整数、小数复合应用题",
+        "q_type": "选择题",
+        "diff": 4.0,
+        "title": "《动物世界》21.8元，《童话故事》14.5元，小明想买这两本书，他只有40元，够吗？（　　）",
+        "options": {
+          "a": "够",
+          "b": "不够",
+          "c": "不能确定",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "A",
+        "answer2": "【解答】解：21.8+14.5=36.3（元）<br />36.3＜40<br />答：40元够用．<br />故选：A．",
+        "parse": "【分析】根据加法的意义，将这两本书的单价相加和40元比较，即可判断是否够用．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109940,
+        "q_name": "分数乘法应用题",
+        "q_type": "选择题",
+        "diff": 3.0,
+        "title": "一根钢筋先截去全长的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>，然后接上<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>米，现在的长度比原来（　　）",
+        "options": {
+          "a": "长",
+          "b": "短",
+          "c": "一样长",
+          "d": "无法比较",
+          "e": ""
+        },
+        "answer1": "D",
+        "answer2": "【解答】解：根据以上分析：一根钢筋先截去全长的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>，然后接上<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>米，现在的长度与原来相比是无法比较的．<br />故选：D．",
+        "parse": "【分析】根据题意要把这根钢筋的全长看作是单位“1”，截去全长的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>，再接上<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>米，<br />根据一个数（0除外）乘一个小于1的数，积小于这个数，全长×<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>＜<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>米，所以全长要小于1米；<br />一个数（0除外）乘一个大于1的数，积大于这个数，全长×<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>＞<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>米，所以全长要大于1米；<br />一个数（0除外）乘一个等于1的数，积等于这个数，全长×<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>米，所以全长要等于1米．据此解答．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109919,
+        "q_name": "运算定律与简便运算",
+        "q_type": "选择题",
+        "diff": 4.0,
+        "title": "25×72×4=72×（25×4）运用了（　　）",
+        "options": {
+          "a": "乘法交换律",
+          "b": "乘法交换律和乘法结合律",
+          "c": "乘法结合律",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "B",
+        "answer2": "【解答】解：25×72×4=72×（25×4）先把25和72的位置进行了交换，是运用了乘法交换律，<br />然后又将25和4结合在一起先进行运算，这是运用了乘法结合律．<br />故选：B．",
+        "parse": "【分析】25×72×4=72×（25×4）先把25和72的位置进行了交换，是运用了乘法交换律，然后又将25和4结合在一起先进行运算，故而得解．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109912,
+        "q_name": "用字母表示数",
+        "q_type": "选择题",
+        "diff": 4.0,
+        "title": "明明的年龄是x岁，爸爸的年龄是他的4倍，那么他们的岁数之和是（　　）",
+        "options": {
+          "a": "4x",
+          "b": "5x",
+          "c": "x+4",
+          "d": "4-x",
+          "e": ""
+        },
+        "answer1": "B",
+        "answer2": "【解答】解：x×4+x<br />=4x+x<br />=5x（岁）<br />故选：B．",
+        "parse": "【分析】由题意得出等量关系式：明明的年龄×4=爸爸的年龄，代数计算出爸爸的年龄，然后再加上后明明的年龄即可．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109908,
+        "q_name": "分数除法应用题",
+        "q_type": "选择题",
+        "diff": 3.0,
+        "title": "甲、乙两桶油同样重，把甲桶的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>倒入乙桶，这时乙桶油的重量是甲桶油的（　　）",
+        "options": {
+          "a": "<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\">1<table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>倍",
+          "b": "<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\">1<table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>4</td></tr></table></span>倍",
+          "c": "2倍",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "C",
+        "answer2": "【解答】解：（1+<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>）÷（1-<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>）<br />=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">4</td></tr><tr><td>3</td></tr></table></span><span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\">÷<table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">2</td></tr><tr><td>3</td></tr></table></span><br />=2<br />答：这时乙桶油的重量是甲桶油的2倍．<br />故选：C．",
+        "parse": "【分析】因为两桶油同样重，所以把原来每桶油的量看作单位“1”，甲桶油的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>倒入乙桶后，甲桶油剩下1-<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>，乙桶油是1+<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>，用乙桶油的量除以甲桶油的量即可．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109906,
+        "q_name": "等量关系与方程",
+        "q_type": "选择题",
+        "diff": 2.0,
+        "title": "某发电厂的计划用煤量比实际多<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>8</td></tr></table></span>，下面三个数量关系中，（　　）符合题意．",
+        "options": {
+          "a": "计划用煤量×（1+<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>8</td></tr></table></span>）=实际用煤量",
+          "b": "实际用煤量×（1+<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>8</td></tr></table></span>）=计划用煤量",
+          "c": "实际用煤量×<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>8</td></tr></table></span>=计划用煤量",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "B",
+        "answer2": "【解答】解：根据题意，把实际用煤量看作单位“1”，<br />因为某发电厂的计划用煤量比实际多<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>8</td></tr></table></span>，<br />所以实际用煤量×（1+<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>8</td></tr></table></span>）=计划用煤量．<br />故选：B．",
+        "parse": "【分析】首先根据题意，把实际用煤量看作单位“1”，可得计划用煤量是实际用煤量的1+<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>8</td></tr></table></span>；然后根据分数乘法的意义，用实际用煤量乘以计划用煤量占实际用煤量的分率，求出计划用煤量是多少即可．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109893,
+        "q_name": "整数的乘法及应用",
+        "q_type": "选择题",
+        "diff": 3.0,
+        "title": "要求总产量，必须知道单产量和（　　）",
+        "options": {
+          "a": "时间",
+          "b": "数量",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "B",
+        "answer2": "【解答】解：因为单产量×数量=总产量，<br />所以要求总产量，必须知道单产量和数量；<br />故选：B．",
+        "parse": "【分析】根据单产量×数量=总产量解答即可．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109888,
+        "q_name": "百分率应用题",
+        "q_type": "选择题",
+        "diff": 3.0,
+        "title": "种一批树，活了100棵，死了1棵，成活率是（　　）",
+        "options": {
+          "a": "99%",
+          "b": "98%",
+          "c": "97%",
+          "d": "1%",
+          "e": ""
+        },
+        "answer1": "A",
+        "answer2": "【解答】解：100÷（100+1）×100%<br />=100÷101×100%<br />≈99%；<br />答：成活率是99%；<br />故选：A．",
+        "parse": "【分析】成活率是指活了的棵数占总棵数的百分之几，计算方法为：活了的棵数÷植树的总棵数×100%=成活率，由此列式解答即可．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109881,
+        "q_name": "平行四边形的面积,三角形的周长和面积",
+        "q_type": "选择题",
+        "diff": 2.0,
+        "title": "一个三角形与一个平行四边形的面积相等，高也相等．如果三角形的底是30厘米，那么平行四边形的底是（　　）厘米．",
+        "options": {
+          "a": "60",
+          "b": "30",
+          "c": "15",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "C",
+        "answer2": "【解答】解：设三角形的底为a，平行四边形的底为b，<br />因为<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>a×高=b×高，<br />所以b=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>a，<br />=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>×30<br />=15（厘米）；<br />故选：C．",
+        "parse": "【分析】三角形的面积=<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>2</td></tr></table></span>×底×高，平行四边形的面积=底×高，由“一个平行四边形和一个三角形的高相等，面积也相等”可知，三角形的底=平行四边形底的2倍，从而问题得解．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109880,
+        "q_name": "单位“1”的认识及确定",
+        "q_type": "选择题",
+        "diff": 2.0,
+        "title": "做一朵小花，用去一根彩带的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">3</td></tr><tr><td>4</td></tr></table></span>，这句话中的“<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">3</td></tr><tr><td>4</td></tr></table></span>”是把（　　）看作单位“1”．",
+        "options": {
+          "a": "彩带的总长度",
+          "b": "用去彩带的长度",
+          "c": "剩下彩带的长度",
+          "d": "",
+          "e": ""
+        },
+        "answer1": "A",
+        "answer2": "【解答】解：做一朵小花，用去一根彩带的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">3</td></tr><tr><td>4</td></tr></table></span>，这句话中的“<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">3</td></tr><tr><td>4</td></tr></table></span>”是把彩带的总长度看作单位“1”．<br />故选：A．",
+        "parse": "【分析】根据判断单位“1”的方法：一般是把“比、占、是、相当于”后面的量看作单位“1”，即分数“的”字前面的量看作单位“1”，进行解答即可．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109840,
+        "q_name": "方向",
+        "q_type": "选择题",
+        "diff": 2.0,
+        "title": "芳芳放学后往东走就能到家，学校在他家的（　　）",
+        "options": {
+          "a": "东面",
+          "b": "西面",
+          "c": "南面",
+          "d": "北面",
+          "e": ""
+        },
+        "answer1": "B",
+        "answer2": "【解答】解：芳芳放学后往东走就能到家，学校在他家的西面；<br />故选：B．",
+        "parse": "【分析】芳芳放学后往东走就能到家，说明小明的家在学校的东面，那么学校就是芳芳家的西面，据此解答．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109836,
+        "q_name": "圆柱的侧面积、表面积和体积,圆锥的体积",
+        "q_type": "选择题",
+        "diff": 2.0,
+        "title": "下面的圆柱体中与圆锥体体积相等的是（　　）<br /><img  src=\"/tikuimages/2/2015/160/xuekubao15/ef58ada1-934a-11e9-8e4f-b42e9921e93e_xkb14.png\" style=\"vertical-align:middle\" />",
+        "options": {
+          "a": "A",
+          "b": "B",
+          "c": "C",
+          "d": "D",
+          "e": ""
+        },
+        "answer1": "B",
+        "answer2": "【解答】解：圆锥的底面直径是9，高是12，图形B，底面直径与圆锥的底面直径相等，高是圆锥高的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>，所以它们的体积相等．<br />故选：B．",
+        "parse": "【分析】因为等底等高的圆锥的体积是圆柱体积的<span class=\"MathJye\" mathtag=\"math\" style=\"whiteSpace:nowrap;wordSpacing:normal;wordWrap:normal\"><table cellpadding=\"-1\" cellspacing=\"-1\" style=\"margin-right:1px\"><tr><td style=\"border-bottom:1px solid black\">1</td></tr><tr><td>3</td></tr></table></span>，由此可知：圆锥的体积与图形B的体积相等．据此解答．",
+        "source": "学库宝",
+        "enable": 1
+      },
+      {
+        "q_id": 109834,
+        "q_name": "方向",
+        "q_type": "选择题",
+        "diff": 4.0,
+        "title": "在一个十字路口处，分别有四家工厂，玩具厂在路口的西北角，童装厂在玩具厂的斜对面，童装厂在路口的（　　）",
+        "options": {
+          "a": "东南角",
+          "b": "西南角",
+          "c": "东北角",
+          "d": "西北角",
+          "e": ""
+        },
+        "answer1": "A",
+        "answer2": "【解答】解：根据方向的相对性可知：在一个十字路口处，分别有四家工厂，玩具厂在路口的西北角，童装厂在玩具厂的斜对面，童装厂在路口的东南面；<br />故选：A．",
+        "parse": "【分析】根据位置的相对性可知，西北和东南相对，则童装厂在路口的东南面，据此解答．",
+        "source": "学库宝",
+        "enable": 1
+      }
     ]
   }
 }

@@ -1,0 +1,37 @@
+{
+  "success": 1,
+  "error_code": null,
+  "data": {
+    "total": 500,
+    "users": [
+      {
+        "id": "1023",
+        "name": "张三",
+        "openid": "abcd",
+        "avatar": "",
+        "grade": "三年级",
+        "beans": 500,
+        "gender": 1,
+        "country": "中国",
+        "province": "北京",
+        "city": "北京",
+        "authorize_time": "1572345349"
+      },
+      {
+        "id": "1024",
+        "name": "李四",
+        "openid": "efgh",
+        "avatar": "",
+        "grade": "四年级",
+        "beans": 560,
+        "gender": 0,
+        "country": "中国",
+        "province": "河北",
+        "city": "石家庄",
+        "authorize_time": "1572345360"
+      },
+      {},
+      {}
+    ]
+  }
+}
